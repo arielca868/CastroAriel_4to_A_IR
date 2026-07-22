@@ -215,9 +215,9 @@
 
 ---
 
-## Grupo D
+## Grupo D: Model IO
 
-### Expositor: Rizo
+### Expositor: Rizzo Edson
 
 **Teoría**
 - Explicación de qué es el MDD.
@@ -227,7 +227,7 @@
 **Práctica**
 - Muestra cómo se organiza el programa dentro de carpetas.
 
-### Expositor: (segundo integrante, nombre no legible en el apunte original)
+### Expositor: Crespo Obed
 
 **Teoría**
 - Instalación y configuración del entorno de trabajo.
@@ -235,6 +235,18 @@
 
 **Práctica**
 - Generación del código a partir de un diagrama de clases y sus propiedades.
+
+### Expositor: Amagua Robin
+
+**Teoría**
+- Ventajas MDD
+- Desventajas
+- Comparación con StarUml
+- Beneficios
+- Limitaciones
+
+**Práctica**
+- Importar diagrama de datos
 
 ---
 
