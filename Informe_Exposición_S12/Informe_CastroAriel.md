@@ -103,7 +103,7 @@
 
 ---
 
-## Grupo 6: UmpleOnline
+## Grupo B: UmpleOnline
 
 ### Expositor: Erick Alvia
 
